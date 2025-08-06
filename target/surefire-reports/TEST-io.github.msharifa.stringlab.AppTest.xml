@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.github.msharifa.stringlab.AppTest" time="0.079" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.github.msharifa.stringlab.AppTest" time="0.145" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/mohamedsharifali/stringlab-cli/target/surefire/surefirebooter12021136845359127403.jar /Users/mohamedsharifali/stringlab-cli/target/surefire 2025-08-05T15-56-25_336-jvmRun1 surefire12663447182834660422tmp surefire_015346298850602360126tmp"/>
+    <property name="sun.java.command" value="/Users/mohamedsharifali/stringlab-cli/target/surefire/surefirebooter9367060260377395840.jar /Users/mohamedsharifali/stringlab-cli/target/surefire 2025-08-06T10-11-50_331-jvmRun1 surefire6963169570504827420tmp surefire_013024485119414089741tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/mohamedsharifali/stringlab-cli/target/test-classes:/Users/mohamedsharifali/stringlab-cli/target/classes:/Users/mohamedsharifali/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/mohamedsharifali/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/mohamedsharifali/stringlab-cli/target/surefire/surefirebooter12021136845359127403.jar"/>
+    <property name="surefire.real.class.path" value="/Users/mohamedsharifali/stringlab-cli/target/surefire/surefirebooter9367060260377395840.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="23.0.2"/>
@@ -58,12 +58,12 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="testCharFreq" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
+  <testcase name="testCharFreq" classname="io.github.msharifa.stringlab.AppTest" time="0.011"/>
   <testcase name="testCaesarEncrypt" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
   <testcase name="testDedup" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
-  <testcase name="testPalindromeTrue" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
+  <testcase name="testPalindromeTrue" classname="io.github.msharifa.stringlab.AppTest" time="0.001"/>
   <testcase name="testCaesarDecrypt" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
-  <testcase name="testPalindromeFalse" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
-  <testcase name="testAnagramFalse" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
-  <testcase name="testAnagramTrue" classname="io.github.msharifa.stringlab.AppTest" time="0"/>
+  <testcase name="testPalindromeFalse" classname="io.github.msharifa.stringlab.AppTest" time="0.001"/>
+  <testcase name="testAnagramFalse" classname="io.github.msharifa.stringlab.AppTest" time="0.001"/>
+  <testcase name="testAnagramTrue" classname="io.github.msharifa.stringlab.AppTest" time="0.001"/>
 </testsuite>
