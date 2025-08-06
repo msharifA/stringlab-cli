@@ -1,4 +1,4 @@
-package io.github.msharifa.stringlab;
+package io.github.msharifa;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

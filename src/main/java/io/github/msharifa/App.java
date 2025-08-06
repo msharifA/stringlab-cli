@@ -76,6 +76,8 @@ public class App {
           wordfreq <sentence> - Show word frequency map.
           dedup <s>        - Remove duplicate characters, keep first occurrence.
           caesar <shift> <s> - Apply Caesar cipher to shift letters.
+          decrypt <shift> <s> - Caesar decrypt (same as caesar with -shift).
+         bruteforce <s>      - Try all 26 shifts and print results.
 
         """);
     }
