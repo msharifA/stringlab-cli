@@ -1,3 +1,5 @@
+![Build](https://github.com/msharifA/stringlab-cli/actions/workflows/maven.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # StringLab CLI
 
